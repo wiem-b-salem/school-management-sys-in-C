@@ -1,0 +1,1 @@
+# school-management-sys-in-C
