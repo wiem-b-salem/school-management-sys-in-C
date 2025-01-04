@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1735654428 source:d:\schoolmanagement\main.c
+	<stdio.h>
+	"etudiant.h"
+	"classe.h"
+	"nouveaute.h"
+	"menuadmin.h"
+	"nouveaute_parent.h"
+	"nouveaute_enseignant.h"
+	"evenement_enseignant.h"
+	"absence.h"
+
+1735319369 d:\schoolmanagement\etudiant.h
+
+1735319913 source:d:\schoolmanagement\etudiant.c
+	<stdio.h>
+	"etudiant.h"
+
+1735319040 d:\schoolmanagement\classe.h
+
+1735319064 source:d:\schoolmanagement\classe.c
+	<stdio.h>
+	"classe.h"
+
+1735319594 d:\schoolmanagement\nouveaute.h
+
+1735319982 source:d:\schoolmanagement\nouveaute.c
+	<stdio.h>
+	"nouveaute.h"
+
+1735319768 source:d:\schoolmanagement\menuadmin.c
+	"menuadmin.h"
+	"etudiant.h"
+	"classe.h"
+	"nouveaute.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1735319800 d:\schoolmanagement\menuadmin.h
+
+1735329021 d:\schoolmanagement\nouveaute_parent.h
+
+1735328999 source:d:\schoolmanagement\nouveaute_parent.c
+	<stdio.h>
+	"nouveaute_parent.h"
+
+1735329543 d:\schoolmanagement\nouveaute_enseignant.h
+
+1735329513 source:d:\schoolmanagement\nouveaute_enseignant.c
+	<stdio.h>
+	"nouveaute_enseignant.h"
+
+1735330787 source:d:\schoolmanagement\evenement_enseignant.c
+	<stdio.h>
+	"evenement_enseignant.h"
+
+1735330747 d:\schoolmanagement\evenement_enseignant.h
+
+1735331835 source:d:\schoolmanagement\absence.c
+	<stdio.h>
+	"absence.h"
+
+1735331590 d:\schoolmanagement\absence.h
+
+1735654481 d:\schoolmanagement\menuprof.h
+	"absence.h"
+	"nouveaute_enseignant.h"
+
+1735654454 source:d:\schoolmanagement\menuprof.c
+	<stdio.h>
+	"menuprof.h"
+	"absence.h"
+	"nouveaute_enseignant.h"
+
