@@ -1,0 +1,6 @@
+#ifndef GERERPROFILEPARENT_H
+#define GERERPROFILEPARENT_H
+
+void gererProfileParent();
+
+#endif // GERERPROFILEPARENT_H
