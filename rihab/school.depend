@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1735751729 source:c:\users\hp\desktop\3-j-h\school\crudcour.c
+	"crudcours.h"
+	<stdio.h>
+
+1735942091 source:c:\users\hp\desktop\3-j-h\school\crudcours.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"crudcours.h"
+
+1735946821 c:\users\hp\desktop\3-j-h\school\crudcours.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1735951240 source:c:\users\hp\desktop\3-j-h\school\crudevent.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"crudevent.h"
+
+1735946293 c:\users\hp\desktop\3-j-h\school\crudevent.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1735951173 source:c:\users\hp\desktop\3-j-h\school\crudnotes.c
+	<stdio.h>
+	<stdlib.h>
+	"crudnotes.h"
+
+1735951173 c:\users\hp\desktop\3-j-h\school\crudnotes.h
+
+1735979028 source:c:\users\hp\desktop\3-j-h\school\main.c
+	<stdio.h>
+	"crudabsence.h"
+	"crudnotes.h"
+	"crudcours.h"
+	"crudevent.h"
+	"menusens.h"
+
+1735669132 c:\users\hp\desktop\3-j-h\school\menus.c
+	"crudevent.h"
+	"crudcours.h"
+	<stdio.h>
+	<stdlib.h>
+
+1735946317 source:c:\users\hp\desktop\3-j-h\school\menus.c
+	"crudevent.h"
+	"crudcours.h"
+	"crudnotes.h"
+	"crudabsence.h"
+	"crudCour.h"
+	<stdio.h>
+	<stdlib.h>
+
+1735979272 source:c:\users\hp\desktop\3-j-h\school\menusens.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menusens.h"
+
+1735978245 source:c:\users\hp\desktop\3-j-h\school\croudabsence.c
+	"croudabsence.h"
+	<stdio.h>
+	<string.h>
+
+1735977931 c:\users\hp\desktop\3-j-h\school\croudabsence.h
+
+1735664664 source:c:\users\hp\desktop\3-j-h\school\crudabscence.c
+
+1735951361 source:c:\users\hp\desktop\3-j-h\school\menusparentc.c
+	"crudabsence.h"
+	"crudnotes.h"
+	<stdio.h>
+	<stdlib.h>
+
+1735759882 c:\users\hp\desktop\3-j-h\school\menus.h
+
+1735664689 c:\users\hp\desktop\3-j-h\school\crudabsence.h
+
+1735751729 c:\users\hp\desktop\3-j-h\school\crudcour.h
+
+1735979261 c:\users\hp\desktop\3-j-h\school\menusens.h
+
+1735819413 c:\users\hp\desktop\3-j-h\school\menusparentc.c
+	"croudabsence.h"
+	"crudnotes.h"
+	<stdio.h>
+	<stdlib.h>
+
+1735947775 c:\users\hp\desktop\3-j-h\school\menusparentc.h
+
+1735863370 source:c:\users\hp\desktop\3-j-h\school\element.c
+	<stdio.h>
+	<string.h>
+	"Element.h"
+
+1735863339 c:\users\hp\desktop\3-j-h\school\element.h
+

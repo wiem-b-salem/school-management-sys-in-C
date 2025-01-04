@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="school" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\school" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\school" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="croudabsence.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="croudabsence.h" />
+		<Unit filename="crudCour.h" />
+		<Unit filename="crudabscence.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="crudabsence.h" />
+		<Unit filename="crudcours.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="crudcours.h" />
+		<Unit filename="crudevent.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="crudevent.h" />
+		<Unit filename="crudnotes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="crudnotes.h" />
+		<Unit filename="crudnotes.txt" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menus.h" />
+		<Unit filename="menusens.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menusens.h" />
+		<Unit filename="menusparentc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menusparentc.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
