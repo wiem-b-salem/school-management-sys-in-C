@@ -1,6 +1,0 @@
-#ifndef GERERPROFILEETUDIANT_H
-#define GERERPROFILEETUDIANT_H
-
-void gererProfileEtudiant();
-
-#endif // GERERPROFILEETUDIANT_H
